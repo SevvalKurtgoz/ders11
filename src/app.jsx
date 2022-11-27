@@ -37,6 +37,7 @@ function App() {
                 }
 
                 <Sayac artim={1} baslangic={0} />
+                
                 <Sayac artim={5} baslangic={25} />
             </div>
         </>
